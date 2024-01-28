@@ -2,7 +2,7 @@
 
 **Hi there** :wave:
 
-- :man_office_worker: Cyber Security Consultant
+- :man_office_worker: Cyber Security Enthusiastic
 - :computer: Used to work on [TenSEAL](https://github.com/OpenMined/TenSEAL).
 - :books: A perpetual learner who enjoys building and breaking things with an appetite for sharing and spreading knowledge.
 - :thought_balloon: Thinking bad and doing good while keeping things simple.
